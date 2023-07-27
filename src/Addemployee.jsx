@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 // import { db,addItem } from './Firebaseconfig';
 import { initializeApp } from "firebase/app";
 // import { getAnalytics } from "firebase/analytics";
-import { getFirestore, collection, getDocs, addDoc, updateDoc, doc, deleteDoc } from 'firebase/firestore/lite';
+import { getFirestore, collection, getDocs, addDoc} from 'firebase/firestore/lite';
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {

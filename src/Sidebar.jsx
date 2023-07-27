@@ -6,7 +6,6 @@ import { faMoneyBill } from '@fortawesome/free-solid-svg-icons';
 import { faPersonCirclePlus } from '@fortawesome/free-solid-svg-icons';
 import { faFingerprint } from '@fortawesome/free-solid-svg-icons';
 import { faStreetView } from '@fortawesome/free-solid-svg-icons';
-import { Link ,Outlet} from 'react-router-dom';
 import { faLock } from '@fortawesome/free-solid-svg-icons';
 
 const Sidebar = () => {
