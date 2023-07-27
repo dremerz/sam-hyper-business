@@ -70,7 +70,7 @@ export default function AddEmployee() {
       console.log(items);
 
     });
-  },[]);
+  },[items]);
 
 
   const handleChange = (e) => {
